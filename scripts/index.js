@@ -1,6 +1,6 @@
 'use strict';
 
-const xNumber = 3;
+const xNumber = 4;
 const answer = prompt('Укажите любое кол-во целых чисел (через запятаю)');
 
 if (answer === null) {
